@@ -1,10 +1,10 @@
-[
+{
     "total_size":1,
     "type_id":2,
     "offset":0,
     "products":[
         {
-            "id":1
+            "id":1,
             "name": "Nutritious fruit meal in korea",
             "description": "Given South Korea's dedicated drinking culture, it's not surprising that its hangover-curing culture is equally as developed, from pre-drinking drinks to post-drinking drinks to a glorious array of spicy and steamy stews and soups.Made from a beef broth, with cabbage, bean sprouts, radish and chunks of congealed ox blood, the deeply satisfying taste does wonders to kick-start your sluggish brain in the morning.",
             "price":"12",
@@ -16,4 +16,4 @@
             "type_id":"2",
         }
     ]
-]
+}
